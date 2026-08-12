@@ -1,0 +1,6 @@
+{
+  "name": "ISHC Help Center",
+  "description": "Study abroad university matcher, eligibility checker, document vault, application tracker & expert consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
